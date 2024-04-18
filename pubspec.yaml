@@ -40,7 +40,11 @@ dependencies:
   vexana: ^4.0.1
   json_annotation: ^4.8.1
   equatable: ^2.0.5
-
+  #vb10 <3
+  life_shared:
+    git:
+      url: https://github.com/VB-CORE/life_shared.git
+  firebase_core: ^2.30.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
